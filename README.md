@@ -1,45 +1,32 @@
-# Halo, saya Muhammad Wildanus Shofi! 👋
+# 👋 Halo, saya Muhammad Wildanus Shofi!  
 
-Seorang Mahasiswa yang bersemangat di bidang Teknologi Informasi.
-
----
-
-### 🚀 Tentang Saya
-Saya adalah seorang **Mahasiswa** di **Universitas Negeri Yogyakarta**.  
-Saya punya passion dalam membangun aplikasi web interaktif dan efisien menggunakan **Laravel**.  
-Saat ini, saya sedang fokus belajar tentang **Python** dan **Streamlit**.  
-
-Di luar coding, saya suka **Naik gunung** 🏔️ dan membaca tentang **Soe Hok Gie** 📖.
+🎓 Seorang **Mahasiswa Teknologi Informasi** yang penuh semangat dan selalu haus belajar.  
 
 ---
 
-### 🛠️ Teknologi dan Alat
+## 🚀 Tentang Saya  
+Saya adalah mahasiswa di **Universitas Negeri Yogyakarta** dengan minat besar dalam pengembangan aplikasi web interaktif dan efisien menggunakan **Laravel**.  
 
-**Bahasa Pemrograman:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frameworks:**
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Alat Lainnya:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+Saat ini, saya sedang mendalami **Python** dan **Streamlit** untuk pengembangan aplikasi data dan AI.  
+Di luar dunia coding, saya senang **mendaki gunung ⛰️** dan membaca kisah-kisah inspiratif tentang **Soe Hok Gie 📖**.  
 
 ---
 
-### 📊 Statistik GitHub
+## 🛠️ Teknologi & Alat  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wildanusshofi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildanusshofi&layout=compact&theme=radical" height="180"/>
-</p>
+### 💻 Bahasa Pemrograman  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wildanusshofi&theme=radical" height="180"/>
-</p>
+### ⚡ Frameworks  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-### 📫 Kontak
-- **Email:** wildanusshofi@gmail.com  
+## 📫 Kontak Saya  
+✉️ **Email:** [wildanusshofi@gmail.com](mailto:wildanusshofi@gmail.com)  
+
