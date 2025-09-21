@@ -1,5 +1,9 @@
 # Halo, saya Muhammad Wildanus Shofi! 👋
 
+<p align="center">
+  <img src="https://i.ibb.co/xH2Bdqk/programmer.gif" width="400"/>
+</p>
+
 Seorang Mahasiswa yang bersemangat di bidang Teknologi Informasi.
 
 ---
