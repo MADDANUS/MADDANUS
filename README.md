@@ -1,16 +1,16 @@
-# Halo, saya [Nama Anda]! 👋
+# Halo, saya Muhammad Wildanus Shofi! 👋
 
-Seorang [posisi/profesi] yang bersemangat dalam [bidang/minat Anda].
+Seorang Mahasiswa yang bersemangat di bidang Teknologi Informasi.
 
 ---
 
 ### 🚀 Tentang Saya
 
-Saya adalah seorang **[posisi Anda]** yang berbasis di **[lokasi Anda]**. Saya memiliki passion dalam membangun aplikasi web yang interaktif dan efisien menggunakan **[teknologi favorit]**. 
+Saya adalah seorang **Mahasiswa** yang berbasis di **Universitas Negeri Yogyakarta**. Saya memiliki passion dalam membangun aplikasi web yang interaktif dan efisien menggunakan **Laravel**. 
 
-Saat ini, saya sedang fokus belajar tentang **[teknologi yang sedang Anda pelajari]**.
+Saat ini, saya sedang fokus belajar tentang **Python dan stream lit**.
 
-Di luar coding, saya suka **[hobi Anda]** dan membaca tentang **[topik minat Anda]**.
+Di luar coding, saya suka **Naik gunung** dan membaca tentang **Soe Hok Gie**.
 
 ---
 
@@ -20,13 +20,12 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 
 **Bahasa Pemrograman:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 **Frameworks:**
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 **Alat Lainnya:**
 
@@ -34,21 +33,5 @@ Berikut adalah beberapa teknologi yang sering saya gunakan:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+* **Email:** wildanusshofi@gmail.com
 
-### 📂 Proyek Unggulan
-
-#### [Nama Proyek 1]
-
-Proyek ini adalah sebuah **[jenis proyek]** yang dibangun dengan **[teknologi]**. Tujuannya adalah untuk **[tujuan proyek]**.
-
-- **Repository:** [Link ke Repo](https://github.com/username/project1)
-- **Live Demo:** [Link ke Live Demo](https://project1-live.com)
-
----
-
-### 📫 Hubungi Saya
-
-* **LinkedIn:** [linkedin.com/in/namaanda](https://linkedin.com/in/namaanda)
-* **Twitter:** [@namaanda](https://twitter.com/namaanda)
-* **Email:** namaanda@email.com
-* **Portofolio:** [portofolio-anda.com](https://portofolio-anda.com)
